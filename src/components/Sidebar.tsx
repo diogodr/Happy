@@ -6,7 +6,6 @@ import mapMarkerImg from '../images/map-marker.svg';
 
 import '../styles/components/sidebar.css'
 
-
 export default function Sidebar() {
     const { goBack } = useHistory();
 
